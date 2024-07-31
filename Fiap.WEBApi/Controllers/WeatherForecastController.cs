@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace FIAP.Hackaton2NETTWebApi.Controllers
+namespace Fiap.WEBApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

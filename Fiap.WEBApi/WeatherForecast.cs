@@ -1,4 +1,4 @@
-namespace FIAP.Hackaton2NETTWebApi
+namespace Fiap.WEBApi
 {
     public class WeatherForecast
     {
